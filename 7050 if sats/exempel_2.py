@@ -4,3 +4,4 @@ if tal >= 0 and tal < 10:
 else:
     print("negativt eller flersiffrigt")
 print("klart")
+print("klart")
