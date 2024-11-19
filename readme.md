@@ -1,5 +1,8 @@
 Ditt Namn Loggbok
 ==================
+24-11-19
+---------
+[Skrivit program som tar fram fibonacci-tal.](7100_listo/fibonacci.py)
 24-11-18
 ------------
 Visat:
