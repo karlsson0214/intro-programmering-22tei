@@ -1,5 +1,22 @@
 Ditt Namn Loggbok
 ==================
+24-11-26
+-----------
+Funktioner
+
+[exempel 1](7080_funktioner/ex_1.py)
+
+[exempel 2](7080_funktioner/ex_2.py)
+
+[exempel 3](7080_funktioner/ex_3.py)
+
+[exempel 4](7080_funktioner/ex_4.py)
+
+24-11-25
+-----------
+listor
+
+[Välj del av lista.](7100_listor/exempel_7_slice.py)
 24-11-19
 ---------
 [Skrivit program som tar fram fibonacci-tal.](7100_listor/fibonacci.py)
