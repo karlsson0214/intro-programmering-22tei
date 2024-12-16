@@ -1,5 +1,9 @@
 Ditt Namn Loggbok
 ==================
+24-12-16
+-----------
+[exempel 6 - primtal](7080_funktioner/ex_6_primtal.py)
+
 24-11-26
 -----------
 Funktioner
