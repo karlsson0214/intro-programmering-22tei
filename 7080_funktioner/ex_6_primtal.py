@@ -5,6 +5,7 @@ def is_next_prime(n, primtal):
             return False
     return True
 
+
 primtal = [2]
 
 for i in range(3, 10):
@@ -12,3 +13,4 @@ for i in range(3, 10):
         primtal.append(i)
 
 print(primtal)
+
