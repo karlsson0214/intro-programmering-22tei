@@ -2,7 +2,9 @@ Ditt Namn Loggbok
 ==================
 25-01-20
 ----------
+
 [Räkna 2:or i pokerhand](7100_listor/exempel_8_count.py)
+
 24-12-16
 -----------
 [exempel 6 - primtal](7080_funktioner/ex_6_primtal.py)
