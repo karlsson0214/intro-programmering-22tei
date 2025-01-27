@@ -1,5 +1,10 @@
 Ditt Namn Loggbok
 ==================
+25-01-27
+---------
+
+[Runners, ändra på element i lista i for-slinga](7100_listor/exempel_9_runners.py)
+
 25-01-20
 ----------
 
